@@ -2,8 +2,8 @@
                                
                                                 MY #100DaysOfCode Journey ( LeetCode )
 
-### Day 1 - [Two Sum](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%201) 
-### Day 2 - [Add Digits](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%202)
+#### Day 1 - [Two Sum](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%201) 
+#### Day 2 - [Add Digits](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%202)
 #### Day 3 - [Determine if Two Strings Are Close](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%203)
 #### Day 4 - [Find Players With Zero or One Losses](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%204)
 #### Day 5 - [Insert Delete GetRandom O(1)](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%205)
