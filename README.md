@@ -1,6 +1,6 @@
 ![image](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/assets/86872379/5f77bd48-2373-45c5-a3f8-9118e244fc7a)
                                
-                                         MY #100DaysOfCode Journey ( LeetCode )
+                                            MY #100DaysOfCode Journey ( LeetCode )
 
 ### Day 1 - [Two Sum](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%201) 
 ### Day 2 - [Add Digits](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%202)
