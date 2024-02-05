@@ -1,6 +1,6 @@
 ![image](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/assets/86872379/5f77bd48-2373-45c5-a3f8-9118e244fc7a)
                                
-                                            MY #100DaysOfCode Journey ( LeetCode )
+                                           MY #100DaysOfCode Journey ( LeetCode )
 
 #### Day 1 - [Two Sum](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%201) 
 #### Day 2 - [Add Digits](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%202)
@@ -26,3 +26,4 @@
 #### Day 22 - [Sequential Digits](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2022)
 #### Day 23 - [Partition Array for Maximum Sum](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2023)
 #### Day 24 - [Minimum Window Substring](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2024)
+#### Day 25 - [First Unique Character in a String](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2025)
