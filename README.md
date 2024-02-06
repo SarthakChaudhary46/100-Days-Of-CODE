@@ -27,3 +27,4 @@
 #### Day 23 - [Partition Array for Maximum Sum](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2023)
 #### Day 24 - [Minimum Window Substring](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2024)
 #### Day 25 - [First Unique Character in a String](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2025)
+#### Day 26 - [Group Anagrams](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2026)
