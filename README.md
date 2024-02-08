@@ -28,4 +28,5 @@
 #### Day 24 - [Minimum Window Substring](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2024)
 #### Day 25 - [First Unique Character in a String](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2025)
 #### Day 26 - [Group Anagrams](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2026)
-#### Day 27 -[Sort Characters By Frequency](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2027)
+#### Day 27 - [Sort Characters By Frequency](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2027)
+#### Day 28 - [Perfect Squares](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2028)
