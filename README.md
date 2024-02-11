@@ -32,3 +32,4 @@
 #### Day 28 - [Perfect Squares](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2028)
 #### Day 29 - [Largest Divisible Subset](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2029)
 #### Day 30 - [Palindromic Substrings](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2030)
+#### Day 31 - [Cherry Pickup II](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2031)
