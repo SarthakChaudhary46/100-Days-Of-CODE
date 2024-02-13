@@ -34,3 +34,4 @@
 #### Day 30 - [Palindromic Substrings](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2030)
 #### Day 31 - [Cherry Pickup II](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2031)
 #### Day 32 - [Majority Element](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2032)
+#### Day 33 - [Find First Palindromic String in the Array](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2033)
