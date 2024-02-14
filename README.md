@@ -35,3 +35,4 @@
 #### Day 31 - [Cherry Pickup II](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2031)
 #### Day 32 - [Majority Element](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2032)
 #### Day 33 - [Find First Palindromic String in the Array](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2033)
+#### Day 34 - [Rearrange Array Elements by Sign](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2034)
