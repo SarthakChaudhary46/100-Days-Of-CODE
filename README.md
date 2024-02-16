@@ -37,3 +37,4 @@
 #### Day 33 - [Find First Palindromic String in the Array](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2033)
 #### Day 34 - [Rearrange Array Elements by Sign](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2034)
 #### Day 35 - [Find Polygon With the Largest Perimeter](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2035)
+#### Day 36 - [Least Number of Unique Integers after K Removals](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2036)
