@@ -38,3 +38,4 @@
 #### Day 34 - [Rearrange Array Elements by Sign](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2034)
 #### Day 35 - [Find Polygon With the Largest Perimeter](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2035)
 #### Day 36 - [Least Number of Unique Integers after K Removals](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2036)
+#### Day 37 - [Furthest Building You Can Reach](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2036)
