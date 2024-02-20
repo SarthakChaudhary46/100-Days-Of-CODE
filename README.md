@@ -41,3 +41,4 @@
 #### Day 37 - [Furthest Building You Can Reach](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2037)
 #### Day 38 - [Meeting Rooms III](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2038)
 #### Day 39 - [Power of Two](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2039)
+#### Day 40 - [Missing Number](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2040)
