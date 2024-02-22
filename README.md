@@ -43,3 +43,4 @@
 #### Day 39 - [Power of Two](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2039)
 #### Day 40 - [Missing Number](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2040)
 #### Day 41 - [Bitwise AND of Numbers Range](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2041)
+#### Day 42 - [Find the Town Judge](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2042)
