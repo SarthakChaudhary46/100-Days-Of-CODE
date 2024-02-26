@@ -45,3 +45,6 @@
 #### Day 41 - [Bitwise AND of Numbers Range](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2041)
 #### Day 42 - [Find the Town Judge](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2042)
 #### Day 43 - [Cheapest Flights Within K Stops](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2043)
+#### Day 44 - [Find All People With Secret](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2044)
+#### Day 45 - [Greatest Common Divisor Traversal](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2045)
+#### Day 46 - [Same Tree](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2046)
