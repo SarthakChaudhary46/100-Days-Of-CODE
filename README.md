@@ -48,3 +48,4 @@
 #### Day 44 - [Find All People With Secret](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2044)
 #### Day 45 - [Greatest Common Divisor Traversal](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2045)
 #### Day 46 - [Same Tree](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2046)
+#### Day 47 - [Diameter of Binary Tree](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2047)
