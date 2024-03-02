@@ -52,3 +52,4 @@
 #### Day 48 - [Create Find Bottom Left Tree Value](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2048)
 #### Day 49 - [Even Odd Tree](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2049)
 #### Day 50 - [Maximum Odd Binary Number](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2050)
+#### Day 51 - [Squares of a Sorted Array](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2051)
