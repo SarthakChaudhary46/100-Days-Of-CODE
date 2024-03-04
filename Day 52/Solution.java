@@ -1,25 +1,34 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
-    public int bagOfTokensScore(int[] tokens, int power) {
-        Arrays.sort(tokens);
-        int s = 0;
-        int maxi = 0;
-        int l = 0, r = tokens.length - 1;
-
-        while (l <= r) {
-            if (power >= tokens[l]) {
-                power -= tokens[l];
-                s++;
-                l++;
-                maxi = Math.max(maxi, s);
-            } else if (s > 0) {
-                power += tokens[r];
-                s--;
-                r--;
-            } else {
-                break;
-            }
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        int length = findLength(head);
+        int i = 0, traverseTill = length - n - 1;
+        if(traverseTill == -1) return head.next;
+        ListNode curr = head;
+        while(i < traverseTill){
+            curr = curr.next;
+            i++;
         }
-
-        return maxi;
+        curr.next = curr.next.next;
+        return head;
+    }
+    public int findLength(ListNode head){
+        int count = 0;
+        if(head == null) return count;
+        ListNode curr = head;
+        while(curr != null){
+            count++;
+            curr = curr.next;
+        }
+        return count;
     }
 }
