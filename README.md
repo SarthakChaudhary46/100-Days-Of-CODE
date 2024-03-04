@@ -53,3 +53,5 @@
 #### Day 49 - [Even Odd Tree](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2049)
 #### Day 50 - [Maximum Odd Binary Number](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2050)
 #### Day 51 - [Squares of a Sorted Array](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2051)
+#### Day 52 - [Remove Nth Node From End of Lis](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2052)
+#### Day 53 - [ Bag of Tokens](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2053)
