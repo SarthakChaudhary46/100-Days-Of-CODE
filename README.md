@@ -59,3 +59,4 @@
 #### Day 55 - [Linked List Cycle](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2055)
 #### Day 56 - [Middle of the Linked List](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2056)
 #### Day 57 - [Count Elements With Maximum Frequency](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2057)
+#### Day 58 - [Minimum Common Value](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2058)
