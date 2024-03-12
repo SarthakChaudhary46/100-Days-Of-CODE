@@ -62,3 +62,4 @@
 #### Day 58 - [Minimum Common Value](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2058)
 #### Day 59 - [Intersection of Two Arrays](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2059)
 #### Day 60 - [Custom Sort String](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2060)
+#### Day 61 - [Remove Zero Sum Consecutive Nodes from Linked List](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2061)
