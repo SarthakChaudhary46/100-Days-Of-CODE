@@ -66,3 +66,6 @@
 #### Day 62 - [Find the Pivot Integer](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2062)
 #### Day 63 - [Binary Subarrays With Sum](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2063)
 #### Day 64 - [Product of Array Except Self](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2064)
+#### Day 65 - [Contiguous Array](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2065)
+#### Day 66 - [Insert Interval](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2066)
+#### Day 67 - [Minimum Number of Arrows to Burst Balloons](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2067)
