@@ -71,3 +71,5 @@
 #### Day 67 - [Minimum Number of Arrows to Burst Balloons](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2067)
 #### Day 68 - [Task Scheduler](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2068)
 #### Day 69 - [Merge In Between Linked Lists](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2069)
+#### Day 70 - [Reverse Linked List](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2070)
+#### Day 71 - [Palindrome Linked List](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2071)
