@@ -73,3 +73,7 @@
 #### Day 69 - [Merge In Between Linked Lists](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2069)
 #### Day 70 - [Reverse Linked List](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2070)
 #### Day 71 - [Palindrome Linked List](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2071)
+#### Day 72 - [Reorder List](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2072)
+#### Day 73 - [Find the Duplicate Number](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2073)
+#### Day 74 - [Find All Duplicates in an Array](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2074)
+#### Day 75 - [First Missing Positive](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2075)
