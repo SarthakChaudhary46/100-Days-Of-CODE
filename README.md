@@ -79,3 +79,8 @@
 #### Day 75 - [First Missing Positive](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2075)
 #### Day 76 - [Subarray Product Less Than K](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2076)
 #### Day 77 - [Length of Longest Subarray With at Most K Frequency](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2077)
+#### Day 78 - [Count Subarrays Where Max Element Appears at Least K Times](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2078)
+#### Day 79 - [Subarrays with K Different Integers](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2079)
+#### Day 80 - [Count Subarrays With Fixed Bounds](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2080)
+#### Day 81 - [Length of Last Word](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2081)
+
