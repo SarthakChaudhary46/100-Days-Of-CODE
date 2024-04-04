@@ -85,3 +85,4 @@
 #### Day 81 - [Length of Last Word](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2081)
 #### Day 82 - [Isomorphic Strings](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2082)
 #### Day 83 - [Word Search](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2083)
+#### Day 84 - [Maximum Nesting Depth of the Parentheses](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2084)
