@@ -86,3 +86,4 @@
 #### Day 82 - [Isomorphic Strings](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2082)
 #### Day 83 - [Word Search](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2083)
 #### Day 84 - [Maximum Nesting Depth of the Parentheses](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2084)
+#### Day 85 - [Make The String Great](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2085)
