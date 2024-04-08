@@ -87,3 +87,6 @@
 #### Day 83 - [Word Search](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2083)
 #### Day 84 - [Maximum Nesting Depth of the Parentheses](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2084)
 #### Day 85 - [Make The String Great](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2085)
+#### Day 86 - [Minimum Remove to Make Valid Parentheses](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2086)
+#### Day 87 - [Valid Parenthesis String](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2087)
+#### Day 88 - [Number of Students Unable to Eat Lunch](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2088)
