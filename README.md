@@ -90,3 +90,4 @@
 #### Day 86 - [Minimum Remove to Make Valid Parentheses](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2086)
 #### Day 87 - [Valid Parenthesis String](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2087)
 #### Day 88 - [Number of Students Unable to Eat Lunch](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2088)
+#### Day 89 - [Time Needed to Buy Tickets](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2089)
