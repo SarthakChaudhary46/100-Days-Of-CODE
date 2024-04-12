@@ -93,3 +93,4 @@
 #### Day 89 - [Time Needed to Buy Tickets](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2089)
 #### Day 90 - [Reveal Cards In Increasing Order](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2090)
 #### Day 91 - [Remove K Digits](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2091)
+#### Day 92 - [Trapping Rain Water](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2092)
