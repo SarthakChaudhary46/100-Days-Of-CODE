@@ -1,34 +1,30 @@
 class Solution {
-    public String removeKdigits(String num, int k) {
-        Stack<Character> stack = new Stack<>();
+    public int trap(int[] height) {
+        int n = height.length;
+        if (n == 0) return 0;
         
-        for (char digit : num.toCharArray()) {
-            while (!stack.isEmpty() && k > 0 && stack.peek() > digit) {
-                stack.pop();
-                k--;
-            }
-            stack.push(digit);
+        int[] left = new int[n];
+        int[] right = new int[n];
+        int storedWater = 0;
+        
+        // Fill left array
+        left[0] = height[0];
+        for (int i = 1; i < n; i++) {
+            left[i] = Math.max(left[i - 1], height[i]);
         }
         
-        // Remove remaining k digits from the end of the stack
-        while (k > 0 && !stack.isEmpty()) {
-            stack.pop();
-            k--;
+        // Fill right array
+        right[n - 1] = height[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            right[i] = Math.max(right[i + 1], height[i]);
         }
         
-        // Construct the resulting string from the stack
-        StringBuilder sb = new StringBuilder();
-        while (!stack.isEmpty()) {
-            sb.append(stack.pop());
-        }
-        sb.reverse(); // Reverse to get the correct order
-        
-        // Remove leading zeros
-        while (sb.length() > 0 && sb.charAt(0) == '0') {
-            sb.deleteCharAt(0);
+        // Calculate trapped water
+        for (int i = 0; i < n; i++) {
+            int minHeight = Math.min(left[i], right[i]);
+            storedWater += minHeight - height[i];
         }
         
-        // Handle edge case where result might be empty
-        return sb.length() > 0 ? sb.toString() : "0";
+        return storedWater;
     }
 }
