@@ -94,3 +94,6 @@
 #### Day 90 - [Reveal Cards In Increasing Order](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2090)
 #### Day 91 - [Remove K Digits](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2091)
 #### Day 92 - [Trapping Rain Water](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2092)
+#### Day 93 - [Maximal Rectangle](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2093)
+#### Day 94 - [Sum of Left Leaves](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2094)
+#### Day 95 - [Sum Root to Leaf Numbers](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2095)
