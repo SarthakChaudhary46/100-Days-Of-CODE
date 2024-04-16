@@ -97,3 +97,4 @@
 #### Day 93 - [Maximal Rectangle](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2093)
 #### Day 94 - [Sum of Left Leaves](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2094)
 #### Day 95 - [Sum Root to Leaf Numbers](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2095)
+#### Day 96 - [Add One Row to Tree](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2096)
