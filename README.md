@@ -98,4 +98,6 @@
 #### Day 94 - [Sum of Left Leaves](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2094)
 #### Day 95 - [Sum Root to Leaf Numbers](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2095)
 #### Day 96 - [Add One Row to Tree](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2096)
-#### Day 97 -[Smallest String Starting From Leaf](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2097)
+#### Day 97 - [Smallest String Starting From Leaf](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2097)
+#### Day 98 - [Island Perimeter](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2098)
+#### Day 99 - [Number of Islands](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2099)
