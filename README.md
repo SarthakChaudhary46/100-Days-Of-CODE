@@ -101,3 +101,5 @@
 #### Day 97 - [Smallest String Starting From Leaf](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2097)
 #### Day 98 - [Island Perimeter](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2098)
 #### Day 99 - [Number of Islands](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%2099)
+#### Day 100 - [Number of Islands](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%20100)
+#### Day 101 - [Open the Lock](https://github.com/SarthakChaudhary46/100-Days-Of-CODE/tree/main/Day%20101)
